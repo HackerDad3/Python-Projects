@@ -2,8 +2,8 @@ import pandas as pd
 import os
 
 # Define the path to your Excel file and directory with files to be renamed
-excel_file_path = 'C:\\Users\\Willi\\OneDrive\\Documents\\Python Projects\\My Code\\RenameKey.xlsx'
-directory_path = 'C:\\Users\\Willi\\OneDrive\\Documents\\Python Projects\\My Code\\Delivery'
+excel_file_path = 'Insert key file path'
+directory_path = 'Inser directory file path'
 
 # Load the Excel file into a pandas DataFrame
 df = pd.read_excel(excel_file_path)
