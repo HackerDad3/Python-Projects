@@ -23,3 +23,5 @@ for index, row in df.iterrows():
         print(f'File not found: {current_filename}')
 
 print('Bulk renaming complete.')
+#need to add error handeling
+
