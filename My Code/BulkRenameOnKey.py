@@ -24,4 +24,3 @@ for index, row in df.iterrows():
 
 print('Bulk renaming complete.')
 #need to add error handeling
-
